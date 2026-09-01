@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Challenges"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
