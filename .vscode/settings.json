@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Challenges"
+        "Challenges-9-1",
+        "Challenges-9-2"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
